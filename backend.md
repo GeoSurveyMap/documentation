@@ -187,7 +187,7 @@ To access MinIO, use the following credentials:
 
 
 ## Architecture
-![Architecture](doc/img/architecture.png)
+![Architecture](img/architecture.png)
 ---
 
 Thank you for contributing to GeoSurveyMap! Together, we can build an exceptional tool for geological data management.
